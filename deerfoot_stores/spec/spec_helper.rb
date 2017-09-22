@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "deerfootcity/stores"
+require "deerfoot_stores"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

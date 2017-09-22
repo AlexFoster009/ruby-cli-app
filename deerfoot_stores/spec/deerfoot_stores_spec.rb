@@ -1,8 +1,8 @@
 require "spec_helper"
 
-RSpec.describe Deerfootcity::Stores do
+RSpec.describe DeerfootStores do
   it "has a version number" do
-    expect(Deerfootcity::Stores::VERSION).not_to be nil
+    expect(DeerfootStores::VERSION).not_to be nil
   end
 
   it "does something useful" do
