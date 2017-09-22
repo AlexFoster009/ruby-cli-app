@@ -1,1 +1,0 @@
-# ruby-cli-app
